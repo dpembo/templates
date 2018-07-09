@@ -1,4 +1,19 @@
 [
+    {
+    "type": "container",
+    "title": "API-Gateway",
+    "description": "Software AG API Gateway",
+    "categories": ["webserver"],
+    "platform": "linux",
+    "logo": "https://portainer.io/images/logos/nginx.png",
+    "image": "store/softwareag/apigateway-trial:10.2",
+    "ports": [
+      "9072/tcp",
+      "5555/tcp"
+    ]
+
+  },
+  
   {
     "type": "container",
     "title": "Registry",
