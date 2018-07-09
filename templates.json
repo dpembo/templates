@@ -5,7 +5,7 @@
     "description": "Software AG API Gateway",
     "categories": ["webserver"],
     "platform": "linux",
-    "logo": "https://d1q6f0aelx0por.cloudfront.net/product-logos/910a10a1-5262-4ed0-ab4c-ed4327aff2e3-sag-logo-rgb-square.png?",
+    "logo": "https://d1q6f0aelx0por.cloudfront.net/product-logos/910a10a1-5262-4ed0-ab4c-ed4327aff2e3-sag-logo-rgb-square.png",
     "image": "store/softwareag/apigateway-trial:10.2",
     "ports": [
       "9072/tcp",
