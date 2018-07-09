@@ -6,10 +6,24 @@
     "categories": ["webserver"],
     "platform": "linux",
     "logo": "https://d1q6f0aelx0por.cloudfront.net/product-logos/910a10a1-5262-4ed0-ab4c-ed4327aff2e3-sag-logo-rgb-square.png",
-    "image": "store/softwareag/apigateway-trial:10.2",
+    "image": "store/softwareag/apigateway-trial:latest",
     "ports": [
       "9072/tcp",
       "5555/tcp"
+    ]
+
+  },
+    
+  {
+    "type": "container",
+    "title": "Command Central",
+    "description": "Software AG Command Central",
+    "categories": ["webserver"],
+    "platform": "linux",
+    "logo": "https://d1q6f0aelx0por.cloudfront.net/product-logos/910a10a1-5262-4ed0-ab4c-ed4327aff2e3-sag-logo-rgb-square.png",
+    "image": "store/softwareag/commandcentral:latest",
+    "ports": [
+      "8091/tcp",
     ]
 
   },
